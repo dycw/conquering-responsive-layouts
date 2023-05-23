@@ -1,3 +1,3 @@
-# `template`
+# Conquering Responsive Layouts (Kevin Powell)
 
-Template for generic repositories
+https://courses.kevinpowell.co/conquering-responsive-layouts
