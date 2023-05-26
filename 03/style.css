@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+div.container {
+  background: #136c72;
+}
+
+div.inner-container {
+  padding: 148px 122px 148px 122px;
+  width: 80%;
+  max-width: 710px;
+}
+
+div.inner-container > h1 {
+  color: #ffffff;
+  font-size: 48px;
+}
+
+div.inner-container > p {
+  color: #ffffff;
+  font-size: 21px;
+}
+
+div.inner-container > button {
+  margin-top: 20px;
+  border: none;
+  border-radius: 31.5px;
+  background: #38cfd9;
+  padding: 15px 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
